@@ -9,8 +9,8 @@ img {
    position: absolute;
    top: 50%;
    left: 50%;
-   width: 600px;
-   height: 202px;
-   margin-top: -101px; /* Half the height */
-   margin-left: -300px; /* Half the width */
+   width: 300px;
+   height: 101px;
+   margin-top: -50px; /* Half the height */
+   margin-left: -150px; /* Half the width */
 }
